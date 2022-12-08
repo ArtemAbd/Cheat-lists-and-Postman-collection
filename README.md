@@ -7,7 +7,7 @@ Link to my CV: https://spb.hh.ru/applicant/resumes/view?resume=b2d75467ff0b5441c
 
 Things I learned:
 
-HTML, CSS, SQL, Chrome devtools, Android Studio, Charles, Postman, Jira, Confluence, Qase.io, Postman (REST API), Swagger; MySQL.
+HTML, CSS, SQL, MySQL, Chrome devtools, Android Studio, Charles, Postman, Jira, Confluence, Qase.io, Postman (REST API), Swagger.
 
 Usefull attachments:
 1. Cheat-lists for testing: [Cheat-lists for testing.zip](https://github.com/ArtemAbd/ArtemAbd/files/10186414/Cheat-lists.for.testing.zip)
