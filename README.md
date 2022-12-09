@@ -9,10 +9,7 @@ Things I learned:
 
 HTML, CSS, SQL, MySQL, Chrome devtools, Android Studio, Charles, Postman, Jira, Confluence, Qase.io, Postman (REST API), Swagger.
 
-Usefull attachments:
-1. Cheat-lists for testing: [Cheat-lists for testing.zip](https://github.com/ArtemAbd/ArtemAbd/files/10186414/Cheat-lists.for.testing.zip)
-
-2. Postman collection: [Test collection.postman_collection.json.zip](https://github.com/ArtemAbd/ArtemAbd/files/10186418/Test.collection.postman_collection.json.zip)
+Usefull attachments are in my repository.
 
 Please contact me:
 
